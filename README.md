@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Technical Informatics Student</strong> at <strong>Hogeschool Rotterdam</strong>
+  <strong>Technical Computer Science Student</strong> at <strong>Rotterdam University of Applied Sciences</strong>
 </p>
 
 <p align="center">
@@ -13,7 +13,8 @@
 
 ---
 
-I'm currently studying **Technical Informatics** at Hogeschool Rotterdam.
+I'm currently studying **Technical Computer Science (Technische Informatica)** at Rotterdam University of Applied Sciences.
+
 I'm interested in combining software with hardware, sensors and embedded systems.
 
 ## Current Focus
@@ -39,8 +40,8 @@ I'm interested in combining software with hardware, sensors and embedded systems
 
 ## Education
 
-**Hogeschool Rotterdam**
-*Technical Informatics* · 2026 – Present
+**Rotterdam University of Applied Sciences**
+*Technical Computer Science (Technische Informatica)* · 2026 – 2030
 
 **Grafisch Lyceum Rotterdam**
 *MBO Expert IT Systems & Devices* · 2023 – 2026
