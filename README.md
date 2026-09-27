@@ -1,15 +1,64 @@
-<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<img align="right" alt="GIF" src="https://github.com/ValixDev/Valix/blob/main/baldrcode.gif" width="500" height="320" max-width="500" max-height="320" />
+<h1 align="center">
+  Hi, I'm Baldr
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-I’m <a href="https://github.com/ValixDev">Valix</a> a Dutch guy with a passion for gaming and programming.
+<p align="center">
+  <strong>Technical Informatics Student</strong> at <strong>Hogeschool Rotterdam</strong>
+</p>
 
-• 💬 Ask me about anything, I am happy to help.<br>
-• 📫 How to reach me: [Discord](https://discord.com/users/875712716432629810/).<br>
-• 🛒 My own Discord Bot Shop: [ValixApps](SOON).<br>
+<p align="center">
+  Software · Embedded Systems · Electronics · Networking
+</p>
 
-**Languages:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+I'm currently studying **Technical Informatics** at Hogeschool Rotterdam.
+I'm interested in combining software with hardware, sensors and embedded systems.
 
+## Current Focus
+
+* Embedded programming with Arduino
+* C and C++
+* Python
+* Electronics and sensors
+* Networking
+* Git and GitHub
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" />
+</p>
+
+## Education
+
+**Hogeschool Rotterdam**
+*Technical Informatics* · 2026 – Present
+
+**Grafisch Lyceum Rotterdam**
+*MBO Expert IT Systems & Devices* · 2023 – 2026
+
+## Projects
+
+Some of the projects you'll find here:
+
+* Arduino and embedded projects
+* Sensor integration
+* Electronics
+* Networking
+* Automation
+* School projects
+
+## Contact
+
+<p>
+  <a href="https://baldrk.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/baldrk/">LinkedIn</a>
+</p>
